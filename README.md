@@ -1,6 +1,6 @@
 ## Hi there! 🐋
 
-A humbled data scientist who loves data and learn something new everyday.
+A modest data scientist who loves data and learn something new everyday.
 
 **Soft Skills**
 
